@@ -1,0 +1,4 @@
+*.pyc
+__pychache__
+myvenv
+db.sqlite3 
